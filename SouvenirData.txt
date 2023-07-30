@@ -1,0 +1,6 @@
+Test1_2021-07-21_14.0_Siemens AG;Germany|Procter & Gamble;United States
+Test2_2024-07-21_4.0_National University of Shipbuilding;Ukraine|Toyota Motor Corporation;Japan|Siemens AG;Germany|Procter & Gamble;United States
+Test3_2023-07-21_1.0_Nestlé;Switzerland|Samsung Electronics;South Korea|Siemens AG;Germany|Procter & Gamble;United States
+Test4_2023-07-21_10.0_National University of Shipbuilding;Ukraine|Siemens AG;Germany|Procter & Gamble;United States
+Test5_2021-07-24_8.0_Procter & Gamble;United States
+
