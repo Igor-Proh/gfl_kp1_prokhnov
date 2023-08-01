@@ -249,7 +249,6 @@ public class Menu {
         }
     }
 
-    //TODO
     private void editSouvenir() {
         System.out.println("Enter the name of the souvenir to edit: ");
         String name = scanner.nextLine();
